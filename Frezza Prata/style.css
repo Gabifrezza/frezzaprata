@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;1,300&display=swap');
+
+    
+        h1{ 
+        text-shadow: 10px 10px 10px rgb(179, 175, 175);color:black; 
+        font-family: 'danimaria', times, serif;
+        font-size: 150px; 
+        text-align:center;
+        padding: 5px 5px 5px 5px;
+        font-weight:normal;
+        color:black;}
+
+        p#segundo{ 
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: rgba(243, 154, 167, 0.445); text-align: justify; text-indent: 30px;}
+
+    
+        nav{ 
+        background-color:#f0658123; 
+        padding:5px;
+        margin:auto;
+        border-radius:20px;
+        box-shadow:5px 5px 5px rgba(0, 0, 0, 0.5);
+        text-align:center;
+        background-image: linear-gradient to right,#dd587367, rgb(253, 250, 251); }
+
+    
+        h2{ 
+        font-family: 'Chakra Petch';
+        font-style: italic; 
+        font-weight: bold;
+        font-size: 20px;
+        color: black;
+        text-shadow: 1px 1px 2px rgb(5, 5, 5);}
+
+        h3{ 
+        text-shadow: 1px 1px 2px rgb(5, 5, 5);
+        font-style: italic;
+        font-family: 'Chakra Petch';
+        font-weight: bold;
+        font-size: 20px;
+        color: black;}
+
+
+        input{ 
+        background-color: black;
+        color: pink;
+        border-radius: 5px;
+        padding: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        margin: 15px; 
+        text-align: center;
+        width: 10%;
+        border: none;}
+
+        input:hover{
+        background-color:#FF1493;
+        color: white;}
+
+        body{ 
+        background-color: rgba(255, 192, 203, 0.521);}
+
+        main{ 
+        text-align: center;}
+
+        section{
+        margin:10px;
+        border: 100px;
+        padding: 10px;
+}
+        
+
+
+    
+
+
+        
+
+        
+
+    
+
+
+
+
+
+    
+
+  
+
+
+      
+
+      
+    
